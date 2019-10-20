@@ -31,3 +31,5 @@ plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-sitemap
